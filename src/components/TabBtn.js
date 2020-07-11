@@ -9,12 +9,11 @@ import CountryPicker from "./CountryPicker";
 
 const useStyles = makeStyles((theme) => ({
     container: {
-       backgroundColor: "blue",
-       color:'#fff',
+       
       display: "flex",
       textAlign: "center",
       justifyContent: "center",
-      maxWidth:'35%',
+      
       margin:'0px auto',
     },
     
