@@ -2,7 +2,7 @@ import React from 'react';
 //impor components
 import Header from './components/Header'
 import MainBody from './components/MainBody'
-import css from './App.css'
+
 
 function App() {
   return (
